@@ -1,3 +1,3 @@
 #!/bin/bash
-cho Hello World"
-echo "V1"
+echo Hello World"
+echo "V2"
